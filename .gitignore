@@ -5,6 +5,8 @@ deploy-vars.sh
 scripts/bigbang/**
 scripts/bigbang
 
+GITHUB_TOKEN.txt
+
 *.kubeconfig
 
 *.crt
